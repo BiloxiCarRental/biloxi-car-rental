@@ -1,12 +1,15 @@
-# Biloxi Car Rental V8
+# Biloxi Car Rental — Final Production Build
 
-Fresh V8 build based on V7.
+Final build prepared for fresh GitHub + Vercel deployment.
 
-Changes in V8:
-- Hero copy changed from near-white to dark Gulf Coast green for readability.
-- Compact fleet cards to reduce excessive scrolling, especially on mobile.
-- Fleet filters: Type, Seats, Best For, and Price sorting.
-- Filters combine with each other and show the number of matching vehicles.
-- Mobile fleet uses a compact two-column layout.
-- Existing vehicle photos and Turo links from V7 preserved.
-- Hyundai Santa Fe intentionally left out for now, as previously agreed.
+## Included fixes
+- Dark Gulf Coast green hero copy for readability.
+- Compact responsive fleet cards and combined filters.
+- All vehicle booking links point to the Biloxi Car Rental Turo host profile.
+- Real Sorento, Mustang and Forte photos on local SEO landing pages.
+- Gold high-contrast **Delivery Options** button on location pages.
+- Robust Biloxi / Gulfport / Ocean Springs / D'Iberville navigation links.
+- Sitemap, robots and local SEO landing pages preserved.
+- Hyundai Santa Fe intentionally not added yet.
+
+Turo host profile: https://turo.com/us/en/host/44780734

@@ -1026,3 +1026,35 @@ footer {
   .carBody h3 { font-size: 14px; }
   .carMeta span:nth-child(3) { display: none; }
 }
+
+
+/* Final production polish */
+.seoDeliveryBtn {
+  background: var(--accent) !important;
+  border-color: var(--accent) !important;
+  color: var(--deep) !important;
+  box-shadow: 0 8px 24px rgba(231, 168, 41, .18);
+}
+.seoDeliveryBtn:hover {
+  background: #f0b63f !important;
+  border-color: #f0b63f !important;
+  transform: translateY(-2px);
+}
+.areaNav {
+  position: relative;
+  z-index: 5;
+}
+.areaNav a {
+  position: relative;
+  z-index: 6;
+  pointer-events: auto;
+  cursor: pointer;
+}
+.areaNav a:hover {
+  border-color: #b8b3a9;
+  background: #f4efe5;
+}
+.seoHero .secondaryBtn:not(.seoDeliveryBtn) {
+  color: white;
+  border-color: rgba(255,255,255,.55);
+}

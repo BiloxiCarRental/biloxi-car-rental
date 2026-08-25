@@ -35,7 +35,7 @@ export default function SeoLanding({
             <p>{intro}</p>
             <div className="heroActions">
               <Link className="primaryBtn" href="/#fleet">Browse Our Fleet</Link>
-              <Link className="secondaryBtn" href="/#delivery">Delivery Options</Link>
+              <Link className="secondaryBtn seoDeliveryBtn" href="/#delivery">Delivery Options</Link>
             </div>
           </div>
           <div className="seoHeroPanel">
@@ -49,7 +49,7 @@ export default function SeoLanding({
 
         <section className="areaNav">
           <span>Explore nearby:</span>
-          {serviceAreas.map((a) => <Link key={a.name} href={a.href}>{a.name}</Link>)}
+          {serviceAreas.map((a) => <a key={a.name} href={a.href}>{a.name}</a>)}
         </section>
 
         {sections.map((s, i) => (
@@ -77,7 +77,7 @@ export default function SeoLanding({
               <article className="carCard" key={car.name}>
                 <div className="carImage">
                   <span className="carBadge">{car.badge}</span>
-                  <div className="miniCar"><div className="miniWindow" /><i className="miniWheel left" /><i className="miniWheel right" /></div>
+                  <img src={car.image} alt={`${car.year} ${car.name} rental on the Mississippi Gulf Coast`} loading="lazy" />
                 </div>
                 <div className="carBody">
                   <span className="carType">{car.type}</span>

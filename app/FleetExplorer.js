@@ -12,7 +12,7 @@ const cars = [
     priceRank: 8,
     badge: "Gulf Coast fun",
     image: "/cars/mustang.webp",
-    href: "https://turo.com/us/en/your-car/3529571"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Toyota Corolla",
@@ -23,7 +23,7 @@ const cars = [
     priceRank: 2,
     badge: "Great value",
     image: "/cars/corolla.webp",
-    href: "https://turo.com/us/en/your-car/3502155"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Toyota Sienna",
@@ -34,7 +34,7 @@ const cars = [
     priceRank: 10,
     badge: "7 Passenger",
     image: "/cars/sienna.webp",
-    href: "https://turo.com/us/en/your-car/3628595"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Chevrolet Equinox",
@@ -45,7 +45,7 @@ const cars = [
     priceRank: 6,
     badge: "Roomy SUV",
     image: "/cars/equinox.webp",
-    href: "https://turo.com/us/en/your-car/3859657"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Kia Soul",
@@ -56,7 +56,7 @@ const cars = [
     priceRank: 1,
     badge: "Easy around town",
     image: "/cars/soul.webp",
-    href: "https://turo.com/us/en/your-car/2883870"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Hyundai Venue",
@@ -67,7 +67,7 @@ const cars = [
     priceRank: 3,
     badge: "Compact SUV",
     image: "/cars/venue.webp",
-    href: "https://turo.com/us/en/your-car/3429346"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Kia Sportage",
@@ -78,7 +78,7 @@ const cars = [
     priceRank: 5,
     badge: "Gulf Coast ready",
     image: "/cars/sportage.webp",
-    href: "https://turo.com/us/en/your-car/3447501"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Mazda CX-3",
@@ -89,7 +89,7 @@ const cars = [
     priceRank: 4,
     badge: "Easy to drive",
     image: "/cars/cx3.webp",
-    href: "https://turo.com/us/en/your-car/3806189"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Mazda CX-5",
@@ -100,7 +100,7 @@ const cars = [
     priceRank: 7,
     badge: "Comfortable SUV",
     image: "/cars/cx5.webp",
-    href: "https://turo.com/us/en/your-car/3193813/edit-pricing"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Kia Sorento",
@@ -111,7 +111,7 @@ const cars = [
     priceRank: 11,
     badge: "7 Passenger",
     image: "/cars/sorento.webp",
-    href: "https://turo.com/us/en/suv-rental/united-states/biloxi-ms/kia/sorento/3309313"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Kia Forte",
@@ -122,7 +122,7 @@ const cars = [
     priceRank: 2.5,
     badge: "Great value",
     image: "/cars/forte.webp",
-    href: "https://turo.com/us/en/car-rental/united-states/undefined-undefined/kia/forte/3561569"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Ford Mustang Convertible — Black",
@@ -133,7 +133,7 @@ const cars = [
     priceRank: 9,
     badge: "Gulf Coast fun",
     image: "/cars/mustang-black.webp",
-    href: "https://turo.com/us/en/your-car/3620769"
+    href: "https://turo.com/us/en/host/44780734"
   },
   {
     name: "Hyundai Santa Cruz",
@@ -144,7 +144,7 @@ const cars = [
     priceRank: 8.5,
     badge: "Adventure ready",
     image: "/cars/santa-cruz.webp",
-    href: "https://turo.com/us/en/truck-rental/united-states/biloxi-ms/hyundai/santa-cruz/2881343"
+    href: "https://turo.com/us/en/host/44780734"
   }
 ];
 
