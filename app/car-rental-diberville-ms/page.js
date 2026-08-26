@@ -4,7 +4,7 @@ export const metadata = {
   "title": "Car Rental D'Iberville MS | Biloxi Car Rental",
   "description": "Convenient local car rental serving D'Iberville, MS and nearby Biloxi. Browse vehicles, local delivery options and secure Turo booking.",
   "alternates": {
-    "canonical": "https://biloxicarrental.com/car-rental-diberville-ms"
+    "canonical": "https://biloxicarrentals.com/car-rental-diberville-ms"
   }
 };
 
@@ -16,10 +16,10 @@ export default function Page() {
   "provider": {
     "@type": "AutoRental",
     "name": "Biloxi Car Rental",
-    "url": "https://biloxicarrental.com"
+    "url": "https://biloxicarrentals.com"
   },
   "areaServed": "D'Iberville, Mississippi",
-  "url": "https://biloxicarrental.com/car-rental-diberville-ms"
+  "url": "https://biloxicarrentals.com/car-rental-diberville-ms"
 };
   const props = {
   "eyebrow": "CAR RENTAL D'IBERVILLE MS",
