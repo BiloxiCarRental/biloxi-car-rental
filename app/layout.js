@@ -1,18 +1,18 @@
 import "./globals.css";
 
 export const metadata = {
-  metadataBase: new URL("https://biloxicarrental.com"),
+  metadataBase: new URL("https://biloxicarrentals.com"),
   title: {
     default: "Biloxi Car Rental | Local Car Rental Biloxi MS",
     template: "%s | Biloxi Car Rental"
   },
   description:
     "Biloxi car rental for casino guests, Gulf Coast visitors and local drivers. Convenient local delivery options in Biloxi, plus service for Gulfport, Ocean Springs and D'Iberville.",
-  alternates: { canonical: "https://biloxicarrental.com" },
+  alternates: { canonical: "https://biloxicarrentals.com" },
   openGraph: {
     title: "Biloxi Car Rental | Local Car Rental Biloxi MS",
     description: "Local Gulf Coast car rentals with convenient casino, hotel and nearby delivery options.",
-    url: "https://biloxicarrental.com",
+    url: "https://biloxicarrentals.com",
     siteName: "Biloxi Car Rental",
     locale: "en_US",
     type: "website"
