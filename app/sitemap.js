@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const base = "https://biloxicarrental.com";
+  const base = "https://biloxicarrentals.com";
   return [
     { url: base, lastModified: new Date(), changeFrequency: "weekly", priority: 1 },
     { url: `${base}/car-rental-gulfport-ms`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.9 },
