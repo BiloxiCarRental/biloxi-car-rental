@@ -4,7 +4,7 @@ export const metadata = {
   "title": "Car Rental Ocean Springs MS | Biloxi Car Rental",
   "description": "Local car rental serving Ocean Springs, MS. Convenient vehicles for visitors and residents with nearby delivery options and secure booking through Turo.",
   "alternates": {
-    "canonical": "https://biloxicarrental.com/car-rental-ocean-springs-ms"
+    "canonical": "https://biloxicarrentals.com/car-rental-ocean-springs-ms"
   }
 };
 
@@ -16,10 +16,10 @@ export default function Page() {
   "provider": {
     "@type": "AutoRental",
     "name": "Biloxi Car Rental",
-    "url": "https://biloxicarrental.com"
+    "url": "https://biloxicarrentals.com"
   },
   "areaServed": "Ocean Springs, Mississippi",
-  "url": "https://biloxicarrental.com/car-rental-ocean-springs-ms"
+  "url": "https://biloxicarrentals.com/car-rental-ocean-springs-ms"
 };
   const props = {
   "eyebrow": "CAR RENTAL OCEAN SPRINGS MS",
