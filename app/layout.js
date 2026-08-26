@@ -25,5 +25,27 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-  return <html lang="en"><body>{children}</body></html>;
+  return (
+    <html lang="en">
+      <head>
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-CPNQN1EMJ3"
+        ></script>
+
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-CPNQN1EMJ3');
+            `,
+          }}
+        />
+      </head>
+
+      <body>{children}</body>
+    </html>
+  );
 }
