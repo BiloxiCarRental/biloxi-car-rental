@@ -4,7 +4,7 @@ export const metadata = {
   "title": "Biloxi Casino Car Rental & Hotel Delivery | Biloxi Car Rental",
   "description": "Car rental for Biloxi casino and hotel guests. Convenient local delivery options near Beau Rivage, Hard Rock, Golden Nugget and other Biloxi destinations.",
   "alternates": {
-    "canonical": "https://biloxicarrental.com/biloxi-casino-car-rental"
+    "canonical": "https://biloxicarrentals.com/biloxi-casino-car-rental"
   }
 };
 
@@ -16,10 +16,10 @@ export default function Page() {
   "provider": {
     "@type": "AutoRental",
     "name": "Biloxi Car Rental",
-    "url": "https://biloxicarrental.com"
+    "url": "https://biloxicarrentals.com"
   },
   "areaServed": "Biloxi, Mississippi",
-  "url": "https://biloxicarrental.com/biloxi-casino-car-rental"
+  "url": "https://biloxicarrentals.com/biloxi-casino-car-rental"
 };
   const props = {
   "eyebrow": "BILOXI CASINO CAR RENTAL",
