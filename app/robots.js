@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: "*",
       allow: "/"
     },
-    sitemap: "https://biloxicarrental.com/sitemap.xml"
+    sitemap: "https://biloxicarrentals.com/sitemap.xml"
   };
 }
