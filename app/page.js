@@ -28,7 +28,7 @@ export default function HomePage() {
     "@context": "https://schema.org",
     "@type": "AutoRental",
     name: "Biloxi Car Rental",
-    url: "https://biloxicarrental.com",
+    url: "https://biloxicarrentals.com",
     areaServed: [
       "Biloxi, Mississippi",
       "Gulfport, Mississippi",
