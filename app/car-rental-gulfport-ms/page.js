@@ -4,7 +4,7 @@ export const metadata = {
   "title": "Car Rental Gulfport MS | Biloxi Car Rental",
   "description": "Looking for a car rental in Gulfport, MS? Browse convenient local vehicles for Gulfport visitors and residents, with local delivery options and secure Turo booking.",
   "alternates": {
-    "canonical": "https://biloxicarrental.com/car-rental-gulfport-ms"
+    "canonical": "https://biloxicarrentals.com/car-rental-gulfport-ms"
   }
 };
 
@@ -16,10 +16,10 @@ export default function Page() {
   "provider": {
     "@type": "AutoRental",
     "name": "Biloxi Car Rental",
-    "url": "https://biloxicarrental.com"
+    "url": "https://biloxicarrentals.com"
   },
   "areaServed": "Gulfport, Mississippi",
-  "url": "https://biloxicarrental.com/car-rental-gulfport-ms"
+  "url": "https://biloxicarrentals.com/car-rental-gulfport-ms"
 };
   const props = {
   "eyebrow": "CAR RENTAL GULFPORT MS",
