@@ -4,7 +4,7 @@ export const metadata = {
   "title": "Monthly Car Rental Gulfport MS | Biloxi Car Rental",
   "description": "Need a monthly or long-term car rental in Gulfport, MS? Browse local vehicles for extended trips, temporary transportation and longer stays on the Gulf Coast.",
   "alternates": {
-    "canonical": "https://biloxicarrental.com/monthly-car-rental-gulfport-ms"
+    "canonical": "https://biloxicarrentals.com/monthly-car-rental-gulfport-ms"
   }
 };
 
@@ -16,13 +16,13 @@ export default function Page() {
   "provider": {
     "@type": "AutoRental",
     "name": "Biloxi Car Rental",
-    "url": "https://biloxicarrental.com"
+    "url": "https://biloxicarrentals.com"
   },
   "areaServed": [
     "Gulfport, Mississippi",
     "Biloxi, Mississippi"
   ],
-  "url": "https://biloxicarrental.com/monthly-car-rental-gulfport-ms"
+  "url": "https://biloxicarrentals.com/monthly-car-rental-gulfport-ms"
 };
   const props = {
   "eyebrow": "MONTHLY CAR RENTAL GULFPORT",
