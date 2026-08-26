@@ -42,8 +42,15 @@ export default function RootLayout({ children }) {
               gtag('config', 'G-CPNQN1EMJ3');
             `,
           }}
-        />
-      </head>
+         />
+
+      <script
+        src="https://analytics.ahrefs.com/analytics.js"
+        data-key="h/fIX7t/cFRCznoXJYaWTw"
+        async
+      ></script>
+
+    </head>
 
       <body>{children}</body>
     </html>
