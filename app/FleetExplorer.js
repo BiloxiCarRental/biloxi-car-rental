@@ -3,6 +3,17 @@
 import { useMemo, useState } from "react";
 
 const cars = [
+    {
+    name: "Mazda CX9",
+    type: "7-Passenger SUV",
+    typeGroup: "SUV",
+    seats: 7,
+   bestFor: "Family",
+    priceRank: 11,
+    badge: "7 Passenger",
+    image: "/cars/cx9.webp",
+    href: "https://turo.com/us/en/host/44780734"
+  },
   {
     name: "Ford Mustang Convertible",
     type: "Convertible",
