@@ -11,7 +11,7 @@ const cars = [
   bestFor: "Family & Groups",
   priceRank: 7,
   badge: "Spacious & Comfortable",
-    image: "public/cars/CX9.webp",
+    image: "/cars/CX9.webp",
     href: "https://turo.com/us/en/host/44780734"
   },
   {
