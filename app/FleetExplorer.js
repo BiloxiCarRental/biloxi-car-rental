@@ -4,13 +4,13 @@ import { useMemo, useState } from "react";
 
 const cars = [
     {
-    name: "Mazda CX9",
-    type: "7-Passenger SUV",
-    typeGroup: "SUV",
-    seats: 7,
-   bestFor: "Family",
-    priceRank: 11,
-    badge: "7 Passenger",
+  name: "Mazda CX-9",
+  type: "3-Row SUV",
+  typeGroup: "SUV",
+  seats: 7,
+  bestFor: "Family & Groups",
+  priceRank: 7,
+  badge: "Spacious & Comfortable",
     image: "/cars/cx9.webp",
     href: "https://turo.com/us/en/host/44780734"
   },
